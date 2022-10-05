@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9d3a73a659d114bafe9b5715b15a2d, type: 3}
+  m_Name: CannonData_Slow
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 4571066475506559974, guid: 77af1ca9d290932448ba6ab67bd9d142, type: 3}
+  reloadTime: 2
+  bulletData: {fileID: 11400000, guid: 931cf91c0b1c5df4dba1cf3045a52034, type: 2}
